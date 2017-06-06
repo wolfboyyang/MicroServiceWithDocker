@@ -9,6 +9,9 @@ Learn MicroService togather with Docker & Kubernetes
 
 [Why we don't let non-root users run Docker in CentOS, Fedora, or RHEL](http://www.projectatomic.io/blog/2015/08/why-we-dont-let-non-root-users-run-docker-in-centos-fedora-or-rhel/)
 
+# Swarm
+[生产环境中使用Docker Swarm的一些建议](http://www.cnblogs.com/fundebug/p/6823897.html)
+
 # Kubernetes
 
 [Home](https://kubernetes.io/)
